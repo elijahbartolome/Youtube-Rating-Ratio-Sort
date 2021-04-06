@@ -1,4 +1,4 @@
-# Youtube-Rating-Ratio-Sort-Chrome-Extension
+# Youtube-Rating-Ratio-Sort
 
 To run, execute "py best_ratios.py" in folder
 
